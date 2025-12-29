@@ -1,0 +1,6 @@
+date,bank,account,currency,balance
+2025-01-01,Chase,Operating,USD,1500000
+2025-01-01,Chase,Payroll,USD,450000
+2025-01-01,BoA,Operating,USD,800000
+2025-01-01,Citi,FX-EUR,EUR,300000
+
