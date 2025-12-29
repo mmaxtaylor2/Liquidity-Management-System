@@ -1,4 +1,4 @@
-# Liquidity Management System
+## Liquidity Management System
 
 A treasury operations tool that combines daily cash positioning, a 13-week cash forecast, revolver draw/repay automation, and scenario stress testing. This simulates core workflows performed by corporate treasury analysts managing short-term liquidity and funding needs.
 
@@ -52,6 +52,8 @@ git clone https://github.com/mmaxtaylor2/Liquidity-Management-System.git
 cd Liquidity-Management-System/liquidity-management-system
 pip install -r requirements.txt
 
+---
+
 ## Running the Application
 
 streamlit run ui/streamlit_dashboard.py
@@ -61,6 +63,8 @@ If multiple Streamlit windows are open and you need to reset:
 pkill -f streamlit
 streamlit run ui/streamlit_dashboard.py
 
+---
+
 ## Requirements
 
 (Already included in requirements.txt)
@@ -69,12 +73,16 @@ streamlit==1.29.0
 numpy==1.26.2
 python-dateutil==2.8.2
 
+---
+
 ## Next Step Expansion Ideas
 
 Multi-currency/FX toggle for global entities
 Short-term investment ladder (MMF/T-Bills/CP)
 Dynamic interest expense on revolver balance
 Automated cash sweep logic
+
+---
 
 ## Purpose of the Project
 
@@ -86,3 +94,4 @@ Cash Management / FP&A
 Short-term Funding / Liquidity Ops
 
 The goal is to replicate real deliverables used by treasury teams.
+
