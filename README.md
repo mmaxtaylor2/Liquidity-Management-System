@@ -2,6 +2,8 @@
 
 A treasury operations tool that combines daily cash positioning, a 13-week cash forecast, revolver draw/repay automation, and scenario stress testing. This simulates core workflows performed by corporate treasury analysts managing short-term liquidity and funding needs.
 
+## Live Application
+https://liquidity-management-system-fauqwkgtnvpp93clyliegh.streamlit.app
 ---
 
 ## Key Features
@@ -80,3 +82,4 @@ Cash Management / FP&A
 Short-term Funding / Liquidity Ops
 
 The goal is to replicate real deliverables used by treasury teams.
+
